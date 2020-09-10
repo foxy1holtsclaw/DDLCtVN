@@ -2,7 +2,7 @@
 
 #Sayori's winning words
 
-happiness,3,1,0,2
+spAget,3,1,0,2
 sadness,3,1,0,2
 death,3,1,2,0
 tragedy,3,1,0,2
